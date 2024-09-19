@@ -35,12 +35,12 @@ const Centernavbar = () => {
     return (
         <CenterDiv>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Property</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Agent</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a>Home</a></li>
+                <li><a>About Us</a></li>
+                <li><a>Property</a></li>
+                <li><a>Services</a></li>
+                <li><a>Agent</a></li>
+                <li><a>Contact Us</a></li>
             </ul>
         </CenterDiv>
     )
